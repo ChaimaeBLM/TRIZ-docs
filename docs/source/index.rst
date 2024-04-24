@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+LLMs for TRIZ and Dfx documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
