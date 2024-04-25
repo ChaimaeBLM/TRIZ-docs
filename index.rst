@@ -25,6 +25,7 @@ Contents
    :caption: LLMs
    
    docs/source/api.rst
+   docs/source/usage.rst
 
 
 
