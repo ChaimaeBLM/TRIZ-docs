@@ -1,2 +1,2 @@
-overview_of_the_project
+overview of the project
 =======================
