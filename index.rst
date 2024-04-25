@@ -16,11 +16,16 @@ how to :ref:`installation` the project.
 
 
 
+
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 3
+   :caption: LLMs
+   
+   docs/source/api.rst
+   docs/source/usage.rst
 
-   usage
-   api
-Lumache has its documentation hosted on Read the Docs.
+
+
