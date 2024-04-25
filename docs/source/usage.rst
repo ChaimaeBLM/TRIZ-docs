@@ -32,3 +32,7 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. figure:: /docs/image/1image.png
+   :width: 700
+   :align: center
+   :alt: Alternative Text
