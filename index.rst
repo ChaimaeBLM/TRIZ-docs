@@ -20,7 +20,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 3
-   :caption: LLMs
-   docs/source/api.rst
 
+   usage
+   api
+Lumache has its documentation hosted on Read the Docs.
