@@ -10,6 +10,14 @@ the principles of TRIZ and the flexibility of DFX approaches, the project explor
 solutions and streamline design processes in engineering and product development.
 
 
+
+
+.. figure:: docs/image/trizz.png
+   :width: 700
+   :align: center
+   :alt: Alternative Text
+
+
 Contents
 --------
 
