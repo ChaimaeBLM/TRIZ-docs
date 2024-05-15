@@ -17,16 +17,16 @@ Contents
    :maxdepth: 3
    :caption: Intorduction
    
-   docs/source/LLMs_with_TRIZ_and_DFX.rst
-   docs/source/overview_of_the_project.rst
+   docs/source/introduction/LLMs_with_TRIZ_and_DFX.rst
+   docs/source/introduction/overview_of_the_project.rst
 
 .. toctree::
    :maxdepth: 3
    :caption: Background
 
-   docs/source/LLMs.rst
-   docs/source/TRIZ.rst
-   docs/source/DFx.rst
+   docs/source/background/LLMs.rst
+   docs/source/background/TRIZ.rst
+   docs/source/background/DFx.rst
 
 
 
