@@ -12,7 +12,7 @@ solutions and streamline design processes in engineering and product development
 
 
 
-.. figure:: docs/image/trizz.png
+.. figure:: docs/image/schema.png
    :width: 700
    :align: center
    :alt: Alternative Text

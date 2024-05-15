@@ -14,9 +14,10 @@ downstream considerations beyond performance and functionality.
 
 
 
-.. image:: docs/image/dfx1.png
-   :alt: Variants of "x"
-   :width: 
+.. figure:: docs/source/background/imageee/dfx1.png
+   :width: 700
+   :align: center
+   :alt: 
 
 
 
@@ -30,9 +31,10 @@ environment, and safety. The integrated DFX environment leads to higher quality,
 
 
 
-.. image:: docs/image/dfx.png
+.. figure:: docs/source/background/imageee/dfx.png
+   :width: 700
+   :align: center
    :alt: DFx in product design process
-   :width: 
 
 
 
