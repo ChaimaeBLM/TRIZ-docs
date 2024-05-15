@@ -26,9 +26,11 @@ problems and offers direct solutions to them, along with confidence that most (i
 problem have been considered (Gadd, 2011).
 
 
+
 .. image:: docs/image/trizz.png
    :alt: The TRIZ methodology principle
    :width: 600px
+
 
 
 Main tools and techniques in TRIZ
@@ -47,9 +49,11 @@ principles relevant to the problem.
 with one another. It is used to point out the inventive principles that can be applied to solve technical contradiction.
 
 
+
 .. image:: docs/image/triz2.jpeg
    :alt: 40 inventive problems
    :width: 600px
+
 
 
 

@@ -13,9 +13,11 @@ The X in DFX stands for manufacturability, installability, reliability, safety, 
 downstream considerations beyond performance and functionality. 
 
 
+
 .. image:: docs/image/dfx1.png
    :alt: Variants of "x"
    :width: 600px
+
 
 
 DFX has also been called designing for the "ilities." The term DFX is an extension of the well-known terms DFA (design for
@@ -25,6 +27,7 @@ As Figure l shows, product and process design are integrated from end to end in 
 This integration across PRP and business-operation functions permits the design of products and processes for
 easier manufacture, distribution, installation, operation, service, and maintenance-while considering reliability,
 environment, and safety. The integrated DFX environment leads to higher quality, reduced time to market, and lower cost.
+
 
 
 .. image:: docs/image/dfx.png
