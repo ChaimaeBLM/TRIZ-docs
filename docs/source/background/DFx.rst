@@ -12,6 +12,7 @@ downstream operations from manufacture (including fabrication, assembly,and test
 The X in DFX stands for manufacturability, installability, reliability, safety, serviceability, and other
 downstream considerations beyond performance and functionality. 
 
+
 .. image:: docs\image\dfx1.png
    :alt: Variants of "x"
    :width: 600px
