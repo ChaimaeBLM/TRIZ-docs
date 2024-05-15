@@ -27,9 +27,10 @@ problem have been considered (Gadd, 2011).
 
 
 
-.. image:: docs/image/trizz.png
-   :alt: The TRIZ methodology principle
-   :width: 
+.. figure:: docs/image/trizz.png
+   :width: 700
+   :align: center
+   :alt: Alternative Text
 
 
 
