@@ -9,9 +9,11 @@ product designs across various criteria including cost, performance, and manufac
 the principles of TRIZ and the flexibility of DFX approaches, the project explores how AI can drive creative 
 solutions and streamline design processes in engineering and product development.
 
-.. image:: image\imageIA.webp
+
+.. image:: docs/image/imageIA.webp
    :alt: Alternative text for the image
    :width: 600px
+
 
 
 Contents
