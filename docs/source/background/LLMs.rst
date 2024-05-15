@@ -36,7 +36,7 @@ important leap in scientific thinking, which is the key to understand the develo
 From the perspective of task solving, the four generations of language models have exhibited different levels of model capacities. 
 
 
-.. image:: docs\image\trizz.png
+.. image:: docs/image/trizz.png
    :alt: the evolution process of language models in terms of the task solving capacity
    :width: 600px
 
@@ -53,10 +53,10 @@ performance attained by language models have been significantly enhanced.
 
  
 
-.. image:: docs\image\llm2.png
+.. image:: docs/image/llm2.png
    :alt: A timeline of existing large language models (having a size larger than 10B) in recent years.
    :width: 600px
-   
+
 
 The timeline was established mainly according to the release date (e.g., the submission date to arXiv) of the technical paper for a model. 
 If there was not a corresponding paper, we set the date of a model as the earliest time of its public release or announcement.

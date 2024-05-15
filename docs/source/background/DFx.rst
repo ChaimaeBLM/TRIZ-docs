@@ -13,7 +13,7 @@ The X in DFX stands for manufacturability, installability, reliability, safety, 
 downstream considerations beyond performance and functionality. 
 
 
-.. image:: docs\image\dfx1.png
+.. image:: docs/image/dfx1.png
    :alt: Variants of "x"
    :width: 600px
 
@@ -27,7 +27,7 @@ easier manufacture, distribution, installation, operation, service, and maintena
 environment, and safety. The integrated DFX environment leads to higher quality, reduced time to market, and lower cost.
 
 
-.. image:: docs\image\dfx.png
+.. image:: docs/image/dfx.png
    :alt: DFx in product design process
    :width: 600px
 
