@@ -29,7 +29,7 @@ problem have been considered (Gadd, 2011).
 
 .. image:: docs/image/trizz.png
    :alt: The TRIZ methodology principle
-   :width: 600px
+   :width: 
 
 
 
@@ -52,11 +52,11 @@ with one another. It is used to point out the inventive principles that can be a
 
 .. image:: docs/image/triz2.jpeg
    :alt: 40 inventive problems
-   :width: 600px
+   :width: 
 
 
 
 
 .. image:: docs/image/TRIZ_method_metrics.jpg
    :alt: Contradiction matrix
-   :width: 600px
+   :width: 

@@ -16,7 +16,7 @@ downstream considerations beyond performance and functionality.
 
 .. image:: docs/image/dfx1.png
    :alt: Variants of "x"
-   :width: 600px
+   :width: 
 
 
 
@@ -32,7 +32,7 @@ environment, and safety. The integrated DFX environment leads to higher quality,
 
 .. image:: docs/image/dfx.png
    :alt: DFx in product design process
-   :width: 600px
+   :width: 
 
 
 
